@@ -1,2 +1,4 @@
 # zzangdol_dev-logs
-zzangdol-ai-car | environment settings (shell scripts) &amp; nodes architecture png files, etc.
+Environmental settings for zzangdol-ai-car: 
+- Architecture of ROS nodes (png files)
+- zsh scripts, etc.
